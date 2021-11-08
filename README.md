@@ -8,4 +8,5 @@ how to run and setup
 ```
 $ pip install cryptography
 $ python3 mainFile.py
+$ type the file,folder or image you want to encrypt 
 ```
